@@ -1,0 +1,8 @@
+*
+
+!README.md
+!.gitignore
+!setup.py
+
+!face/
+!face/*.py
