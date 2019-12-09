@@ -1,5 +1,6 @@
 # OpenPose Face Landmarks for PyTorch
 
+![heatmap](img/heatmap.jpg)
 A pytorch implementation of the face landmarking tool from OpenPose.
 
 <https://github.com/CMU-Perceptual-Computing-Lab/openpose>
@@ -22,5 +23,3 @@ commercial use.
 It is possible to expose the heatmaps with:
 
     heatmaps = facedetector._detect(img)
-
-![heatmap](img/heatmap.jpg)
