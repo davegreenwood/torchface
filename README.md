@@ -22,3 +22,5 @@ commercial use.
 It is possible to expose the heatmaps with:
 
     heatmaps = facedetector._detect(img)
+
+![heatmap](img/heatmap.jpg)
