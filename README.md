@@ -16,6 +16,8 @@ commercial use.
 
 ## Usage
 
+On first use, the model weights should download to your home directory.
+
     from face.pose import Face
     facedetector = Face()
     img = Image.open("face.jpg")
