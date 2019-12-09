@@ -6,5 +6,8 @@
 !.gitignore
 !setup.py
 
+!test.py
+!test.jpg
+
 !face/
 !face/*.py
