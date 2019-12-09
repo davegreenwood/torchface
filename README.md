@@ -26,3 +26,7 @@ On first use, the model weights should download to your home directory.
 It is possible to expose the heatmaps with:
 
     heatmaps = facedetector._detect(img)
+
+there is an example included:
+
+    python test.py
