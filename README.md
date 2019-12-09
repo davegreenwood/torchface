@@ -18,3 +18,7 @@ commercial use.
     facedetector = Face()
     img = Image.open("face.jpg")
     lmk = facedetector.detect(img)
+
+It is possible to expose the heatmaps with:
+
+    heatmaps = facedetector._detect(img)
